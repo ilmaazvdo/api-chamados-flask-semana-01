@@ -1,0 +1,8 @@
+[project]
+name = "api-chamados-flask"
+version = "0.1.0"
+description = "API inicial de chamados de suporte com Flask"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.2,<4",
+]
