@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Projeto desenvolvido para a atividade [ATIVIDADE] #1 da disciplina ADS0021. O objetivo é criar a estrutura inicial de uma API de chamados de suporte com Flask, reproduzindo o desenvolvimento apresentado na aula.
+Projeto desenvolvido para a atividade 1 da disciplina ADS0021. O objetivo é criar a estrutura inicial de uma API de chamados de suporte com Flask, reproduzindo o desenvolvimento apresentado na aula.
 
 Neste momento, a API não implementa cadastro de chamados nem banco de dados.
 
